@@ -39,6 +39,7 @@ header h1 {
 header nav .nav-link {
   color: var(--cor-texto-claro);
   font-weight: 600;
+  text-align: right;
 }
 
 header nav .nav-link:hover {
