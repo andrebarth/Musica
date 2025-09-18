@@ -55,6 +55,7 @@ p {
   line-height: 1.6;
   color: var(--cor-texto);   /* Agora em preto */
   margin-bottom: 16px;
+  text-align: justify;
 }
 
 h1, h2 {
