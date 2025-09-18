@@ -12,7 +12,7 @@
 /* 🌍 Estrutura geral */
 body {
   color: var(--cor-texto);
-  background: black;
+  background: var(--cor-fundo-body);
   margin: 0;
   font-family: "Libre Baskerville", serif;
   font-weight: 400;
